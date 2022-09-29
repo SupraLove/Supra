@@ -1,2 +1,2 @@
-Simple project for study makefiles
+﻿Help me please! Рамиль Д.
 ==================================
